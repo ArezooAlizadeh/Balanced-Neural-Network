@@ -6,10 +6,9 @@ Network architecture:
 *connection probability 10%
 
 Balanced Neural Network.py simulats a balanced neural network by Brian simulator.
-
-sim(g, nu_ext_over_nu_thr, sim_time, ax_spikes, ax_rates, rate_tick_step):
     
     """
+    sim(g, nu_ext_over_nu_thr, sim_time, ax_spikes, ax_rates, rate_tick_step):
     g -- relative inhibitory to excitatory synaptic strength
     nu_ext_over_nu_thr -- ratio of external stimulus rate to threshold rate
     sim_time -- simulation time
