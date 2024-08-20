@@ -1,4 +1,4 @@
-# Balanced-Neural-Network
+# Balanced Neural Network
 
 Sparse random connected Balanced Neural Network
 Network architecture:
