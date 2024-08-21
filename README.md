@@ -2,8 +2,7 @@
 
 Sparse random connected Balanced Neural Network
 Network architecture:
-*neurons 12500
-*connection probability 10%
+reference: Brunel N. Dynamics of sparsely connected networks of excitatory and inhibitory spiking neurons. J Comput Neurosci. 2000 May-Jun;8(3):183-208. doi: 10.1023/a:1008925309027. PMID: 10809012.
 
 Balanced Neural Network.py simulats a balanced neural network by Brian simulator.
     
